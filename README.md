@@ -2,7 +2,7 @@
 
 #### Objective
 
-•	Explore the data to find trends and patterns.
+•	Explore toekn historical price data to find trends and patterns.
 
 •	Implement a supervised regression model using XGBoost Regression that predicts the price of the MANA token with high accuracy (score).
 
@@ -12,7 +12,7 @@
 
 • Model scored with 63% accuracy.
 
-• Value of overall token is below a dollar and currently decreasing. Token's value only spiked twice.
+• Value of overall token is below a dollar and currently decreasing. Token's value only had one major spike.
 
 • Can be concluded token does not have favourable ROI.
 
