@@ -10,7 +10,7 @@
 
 #### Outcomes
 
-• Model scored with 60% accuracy.
+• Model scored with 63% accuracy.
 
 • Value of overall token is below a dollar and currently decreasing. Token's value only spiked twice.
 
