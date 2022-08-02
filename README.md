@@ -19,7 +19,9 @@
 #### Visualizations with Tableau 
 
 How much you would have made with you were to buy an X amount of tokens on Y date and sell them on Z date:
+
 https://public.tableau.com/app/profile/alexandra6402/viz/MANA-Howmuchyouwouldhavemade/Dashboard3 
 
 Further insights:
+
 https://public.tableau.com/app/profile/alexandra6402/viz/MANA/Dashboard2 
