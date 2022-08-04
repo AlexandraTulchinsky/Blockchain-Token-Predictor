@@ -2,7 +2,7 @@
 
 #### Objective
 
-•	Explore toekn historical price data to find trends and patterns.
+•	Explore historical token price data to find trends and patterns.
 
 •	Implement a supervised regression model using XGBoost Regression that predicts the price of the MANA token with high accuracy (score).
 
